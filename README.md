@@ -16,3 +16,22 @@ Prefer a webhook?
 Set DELIVERY_METHOD to "webhook" and paste your Zapier/Make/custom URL into WEBHOOK_URL instead.
 Note
 Your EmailJS public key is visible in the browser (normal for EmailJS). Turn on EmailJS's allowed-domains setting to keep it safe.
+
+## 💼 Want it done for you?
+
+This widget is free to use and customize yourself. But if you'd rather
+skip the setup, I offer done-for-you installation:
+
+- **Quick Setup** — I install it on your site, branded with your colors
+  and logo, with lead delivery wired up to your inbox. Ready to capture
+  leads the same day.
+
+- **Setup + Hosting** — Everything above, plus I host and maintain it for
+  you, handle any tweaks, and make sure it keeps running. No technical
+  work on your end, ever.
+
+- **Custom Build** — Need extra questions, integrations (CRM, Zapier,
+  Calendly), or a unique design? I'll build it to spec.
+
+📩 **Interested? Reach out at **mattheubenny@gmail.com** and tell me a bit
+about your business.
